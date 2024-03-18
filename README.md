@@ -1,4 +1,10 @@
 # Electrify_America
 
-This is a case study, I've worked on a dataset pulled from kaggle to identify the optimal new locations to set up by lectrify america in future with Virginia, USA. 
-I've used python, K-means clusting to find the optimal locations, Also used Google Cloud Platform's Geo coding API.
+**Strategic Expansion Planning for Electrify America in Virginia, USA**
+
+Description:
+
+This case study utilizes Python and K-means clustering to identify optimal locations for future Electrify America charging stations in Virginia. Leveraging a Kaggle dataset. Additionally, I've integrated Google Cloud Platform's GeoCoding API for precise location display on my plots. The approach offers strategic insights to support Electrify America's expansion efforts, promoting EV adoption in Virginia.
+
+Google. (03.24.). Google cloud platform. https://console.cloud.google.com/apis
+Kaggle. (03.24.). https://www.kaggle.com/datasets

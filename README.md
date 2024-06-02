@@ -14,6 +14,9 @@ https://www.kaggle.com/datasets/saketpradhan/electric-and-alternative-fuel-charg
 
 **Dataset Description**
 
+ + After performing data cleading from on the dataset, I've used only few columns that are required to build this model, I've also filtered the data to only include stations in Virginia.
+ + This  
+
 
 
 

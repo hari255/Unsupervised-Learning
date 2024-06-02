@@ -1,11 +1,24 @@
-# Electrify_America
 
-**Strategic Expansion Planning for Electrify America in Virginia, USA**
-https://hari255.github.io/Electrify_America/
+# Strategic expansion planning for ElectrifyAmerica's EV charging stations in Virginia, USA.
+---
 
-Description:
+## Description
 
-This case study utilizes Python and K-means clustering to identify optimal locations for future Electrify America charging stations in Virginia. Leveraging a Kaggle dataset. Additionally, I've integrated Google Cloud Platform's GeoCoding API for precise location display on my plots. The approach offers strategic insights to support Electrify America's expansion efforts, promoting EV adoption in Virginia.
+This case study utilizes `Python`, `K-means clustering`, `Geoencoding API` and `NaturalEarth Shape file` to identify and display optimal locations for future Electrify America charging stations in Virginia.  I've integrated Google Cloud Platform's GeoCoding API for precise location display on my plots. The approach offers strategic insights to support Electrify America's expansion efforts, promoting EV adoption in Virginia.
 
+
+## Data collection 
+
+Extratcted this dataset from Kaggle.
+https://www.kaggle.com/datasets/saketpradhan/electric-and-alternative-fuel-charging-stations
+
+**Dataset Description**
+
+
+
+
+
+
+---
 Google. (03.24.). Google cloud platform. https://console.cloud.google.com/apis
 Kaggle. (03.24.). https://www.kaggle.com/datasets

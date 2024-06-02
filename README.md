@@ -71,7 +71,7 @@ fig.show()
 
 ```
 
-** By using above code, I've created the interactive ploty visualizations, I was able to create that map with the help of shape file downloaded from `Natural Earth` that enables to hover and view each charging station at deatils about it.**
+**By using above code, I've created the interactive ploty visualizations, I was able to create that map with the help of shape file downloaded from `Natural Earth` that enables to hover and view each charging station at deatils about it.**
 
 ![image](https://github.com/hari255/Electrify_America/assets/59302293/31d31a8a-6a23-4d0e-8139-2e5a20922b32)
 
@@ -101,7 +101,7 @@ def get_location_details(latitude, longitude):
 
 ```
 
-**The geo-coding API helps us with the address for the locations our model suggested, I've added this to enhance the visualization, when we hover mouse on each dot, it displays information related to that location. **
+**The geo-coding API helps us with the address for the locations our model suggested, I've added this to enhance the visualization, when we hover mouse on each dot, it displays information related to that location.**
 
 ![image](https://github.com/hari255/Electrify_America/assets/59302293/28678472-287f-4280-9da2-a7c5ab6fba78)
 

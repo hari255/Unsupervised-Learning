@@ -16,12 +16,7 @@ https://www.kaggle.com/datasets/saketpradhan/electric-and-alternative-fuel-charg
 
  + After performing data cleading from on the dataset, I've used only few columns that are required to build this model, I've also filtered the data to only include stations in Virginia.
  + This  dataset include information about various EV charging providers in USA, like Telsa, EVgo, Electrify America etc.
- + Columns
-   >> Longitude
-   >> Latitude
-   >> EV provider
-   >> EV-connector type
-   >> Facility
+   
 
 
 

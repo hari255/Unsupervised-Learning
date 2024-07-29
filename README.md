@@ -6,7 +6,7 @@
 
 This case study utilizes `Python`, `K-means clustering`, `Geoencoding API` and `NaturalEarth Shape file` to identify and display optimal locations for future Electrify America charging stations in Virginia.  I've integrated Google Cloud Platform's GeoCoding API for precise location display on my plots. The approach offers strategic insights to support Electrify America's expansion efforts, promoting EV adoption in Virginia.
 
-https://hari255.github.io/Electrify_America/
+https://hari255.github.io/Unsupervised-Learning/
 
 ## Data collection 
 
